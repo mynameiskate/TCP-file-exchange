@@ -1,0 +1,8 @@
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\bin\Debug\TCPClientApp.exe.config
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\bin\Debug\TCPClientApp.exe
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\bin\Debug\TCPClientApp.pdb
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\obj\Debug\TCPClientApp.FileSender.resources
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\obj\Debug\TCPClientApp.Properties.Resources.resources
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\obj\Debug\TCPClientApp.csproj.GenerateResource.Cache
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\obj\Debug\TCPClientApp.exe
+c:\users\kater\documents\visual studio 2015\Projects\TCPClientApp\obj\Debug\TCPClientApp.pdb
